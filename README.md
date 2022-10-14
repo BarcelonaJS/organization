@@ -19,3 +19,13 @@ TBD (ex. create spaces to enable the JS community at BCN to network, share and l
 - (🚧 WIP) [Unplugged events](guidelines/unplugged.md)
 - (🚧 WIP) [Formats (titles, emails, signature, presentations](guidelines/format.md)
 
+## Tasks
+
+- [ ] Add logo at the top of the readme
+- [ ] Migrate website to GitHub Pages
+- [ ] Finish talk submit workflow and documentation
+- [ ] Create sponsor submit workflow and documentation
+- [ ] Include presentations templates and base slides into docs/
+- [ ] Describe the Monthly events guidelines
+- [ ] Describe the Unplugged events guidelines
+- [ ] Define all common formatting details
