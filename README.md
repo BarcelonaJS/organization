@@ -1,0 +1,2 @@
+# organization
+BarcelonaJS community guidelines
