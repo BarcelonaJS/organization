@@ -13,11 +13,12 @@ About
 Talks:
 
 - Talks must be in English
-- Talks should be in the 20-90m range.
-- Talks should be javascript related.
+- Talks should be in the 20-60m range.
+- Talks should be frontend related.
 
 Required information:
 
+- Company must provide the information 3 weeks before the event.
 - Company must provide company name
 - Company must provide venue address.
   - Ideally google maps link.
