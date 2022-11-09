@@ -8,10 +8,11 @@ TBD (ex. create spaces to enable the JS community at BCN to network, share and l
 
 ## Resources
 
-- [barcelonajs.com](https://barcelonajs.com)
+- Website: [barcelonajs.com](https://barcelonajs.com)
 - [Submit a talk](https://github.com/BarcelonaJS/events/issues/new?assignees=&labels=Talk%3A+Feature+%3Acinema%3A&template=talk-feature.md&title=Talk+Proposal%3A+%3Ctalk+title%3E)
 - [Request to sponsor](https://github.com/BarcelonaJS/events/issues/new?assignees=&labels=Sponsor+Request+%3Amoney_with_wings%3A&template=sponsor-request.md&title=Sponsor+Request%3A+%3Ccompany+name%3E)
 - Presentation templates 🚧 WIP
+- [Code of Conduct](../code-of-conduct.md)
 
 ## Guidelines
 
