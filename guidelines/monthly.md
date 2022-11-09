@@ -40,6 +40,8 @@
 
 - Post Meetup event (🚧 create template and link to it) from BarcelonaJS account
 - Tweet meetup event (🚧 create template and link to it) from BarcelonaJS account
+- Tweet promoting the first speaker (🚧 create template and link to it) from BarcelonaJS account
+- Tweet promoting the second speaker (🚧 create template and link to it) from BarcelonaJS account
 - Tweet meetup event from Sponsor account
 - Cross retweet between Sponsor and BarcelonaJS accounts
 - Post photos during event into the meetup page
