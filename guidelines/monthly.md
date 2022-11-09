@@ -33,6 +33,7 @@
 - Sponsor must provide venue address. **Ideally, Google Maps link**
 - Sponsor must indicate venue capacity.
 - Sponsor should sponsor food/drinks.
+- Sponsor should provide at least one speaker (English speaking)
 - Sponsor should provide talk brief and speaker Twitter/LinkedIn
 
 ## Social strategy
