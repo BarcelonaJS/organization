@@ -9,7 +9,7 @@
 - BarcelonaJS won't charge anything for organizing the event
 - All attendees, BarcelonaJS and Sponsor should agree with our [CoC](../code-of-conduct.md)
 - The Sponsor can do an intro talk limited to 5m
-- The Sponsor should provide with a venue of at least 100 seats.
+- The Sponsor should provide with a venue of at least 50 seats.
 
 ## Talks requirements:
 
