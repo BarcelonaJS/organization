@@ -30,11 +30,11 @@ BarcelonaJS community guidelines; The propose of this repository to keep the com
 
 Those are the organizeing team member and the responsabilites
 
-| Member | Event | Host | Media | 
+| Member | Event Organization | Event Host | Social media management| 
 | --- | --- | --- | --- |
-| [@onedesert](https://github.com/onedesert) | ✅ | ✅ | ❌ |
-| [@dmitry-zaets](https://github.com/dmitry-zaets) | ✅ | ✅ | ✅ |
-| [@motanelu](https://github.com/motanelu) | ❌ | ✅ | ❌ |
-| [@ai](https://github.com/ai) | ❌ | ❌ | ✅ |
+| [Yann Torres](https://github.com/onedesert) | ✅ | ✅ | ❌ |
+| [Dmitry Zaets](https://github.com/dmitry-zaets) | ✅ | ✅ | ✅ |
+| [Tudor Barbu](https://github.com/motanelu) | ❌ | ✅ | ❌ |
+| [Andrey Sitnik](https://github.com/ai) | ❌ | ❌ | ✅ |
 
 ## [Code of Conduct](./code-of-conduct.md)
