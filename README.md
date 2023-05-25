@@ -31,7 +31,7 @@ BarcelonaJS community guidelines; The propose of this repository to keep the com
 Those are the organizeing team member and the responsabilites
 
 | Member | Event Organization | Event Host | Social media management| 
-| --- | --- | --- | --- |
+| --- | :---: | :---: | :---: |
 | [Yann Torres](https://github.com/onedesert) | ✅ | ✅ | ❌ |
 | [Dmitry Zaets](https://github.com/dmitry-zaets) | ✅ | ✅ | ✅ |
 | [Tudor Barbu](https://github.com/motanelu) | ❌ | ✅ | ❌ |
