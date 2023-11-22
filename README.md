@@ -12,8 +12,8 @@ BarcelonaJS community guidelines; The propose of this repository to keep the com
 
 ## Actions
 
-- [Submit a talk](https://github.com/BarcelonaJS/events/issues/new?assignees=&labels=Talk%3A+Feature+%3Acinema%3A&template=talk-feature.md&title=Talk+Proposal%3A+%3Ctalk+title%3E)
-- [Request to sponsor](https://github.com/BarcelonaJS/events/issues/new?assignees=&labels=Sponsor+Request+%3Amoney_with_wings%3A&template=sponsor-request.md&title=Sponsor+Request%3A+%3Ccompany+name%3E)
+- [Submit a talk](https://github.com/BarcelonaJS/talks/issues/new?assignees=&labels=Pending%3A+ready+for+review&projects=BarcelonaJS%2F2&template=new-talk.yml)
+- [Request to sponsor](https://github.com/BarcelonaJS/event-sponsors/issues/new?assignees=&labels=&projects=BarcelonaJS%2F2&template=event-sponsor.yml)
 
 ## Resources
 
